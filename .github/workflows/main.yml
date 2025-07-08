@@ -1,0 +1,6 @@
+on:
+  schedule:
+    # NA
+    - cron: '30 10 * * *'
+    # JP
+    - cron: '30 19 * * *'
